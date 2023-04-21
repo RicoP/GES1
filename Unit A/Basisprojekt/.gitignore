@@ -1,0 +1,6 @@
+.vsconfig
+UserSettings
+Library
+Logs
+Unity.VisualScripting.Generated
+*.sln
