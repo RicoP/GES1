@@ -1,4 +1,11 @@
 # Aufgaben
-- [ ] Macromedia utility script importieren
-- [ ] "Input To World Vector" Methode nutzen um Eingabevector zu berechnen ![](image1.png)
-
+- [ ] Im Input Manager den Eintrag Horizontal duplizieren und nach "CameraHorizontal" umbenennen.
+    - [ ] "Horizontal" nur auf A und D mappen und "CameraHorizontal" auf Links und Rechts Pfeiltasten.
+- [ ] Kamera Script Graph anpassen.
+	- [ ] Camera um Ball rotieren lassen mit zweiten "CameraHorizontal" und RotateAround Funktion.
+	- [ ] Nutzen die Velocity um den Ball zu folgen.
+- [ ] Hero Script Graph anpassen.	
+	- [ ] Macromedia utility script importieren.
+	- [ ] "Input To World Vector" Methode aus dem C# script nutzen um Eingabevector relativ zur Kamera zu berechnen.
+- [ ] Erster Gegnertyp. Animierte Platformen.
+	- [ ] Platform zu einem Prefab machen.
